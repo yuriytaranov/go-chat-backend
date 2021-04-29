@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/yuriytaranov/realtime-chat-go-react/websocket"
+	"github.com/yuriytaranov/go-chat-backend/internal/pkg/websocket"
 )
 
 // define our WebSocket endpoint
